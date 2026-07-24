@@ -40,7 +40,4 @@ The ComfyUI public repository is located at `https://github.com/AMD-Ecosystem/Co
 
       * `Overview and reference documentation (upstream) <https://docs.comfy.org/>`__
 
-To contribute to the documentation, refer to
-`Contributing to ROCm <https://rocm.docs.amd.com/en/latest/contribute/contributing.html>`_.
-
 You can find licensing information on the :doc:`Licensing <about/license>` page.
