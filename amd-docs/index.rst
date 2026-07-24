@@ -18,10 +18,10 @@ node-based interface for building and running image generation workflows with
 diffusion models such as Stable Diffusion. Its modular graph-based design lets
 you construct, customize, and share complex pipelines without writing code.
 
-ComfyUI is part of the `ROCm-LLMExt toolkit
+ComfyUI is part of the `AMD LLM Extension toolkit
 <https://rocm.docs.amd.com/projects/rocm-llmext/en/docs-26.04/>`__.
 
-The ComfyUI public repository is located at `https://github.com/ROCm/ComfyUI/tree/release/0.18.2.amd0 <https://github.com/ROCm/ComfyUI/tree/release/0.18.2.amd0>`__.
+The ComfyUI public repository is located at `https://github.com/AMD-Ecosystem/ComfyUI/tree/release/0.18.2.amd0 <https://github.com/AMD-Ecosystem/ComfyUI/tree/release/0.18.2.amd0>`__.
 
 .. grid:: 2
   :gutter: 3

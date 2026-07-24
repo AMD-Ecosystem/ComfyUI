@@ -94,13 +94,13 @@ Build from source
 --------------------------------------------------------------------------------------
 
 ComfyUI on ROCm can be run directly by setting up a Docker container from scratch.
-A Dockerfile is provided in the `https://github.com/ROCm/ComfyUI/blob/amd-integration/docker/Dockerfile.rocm <https://github.com/ROCm/ComfyUI/blob/amd-integration/docker/Dockerfile.rocm>`__ repository to help you get started.
+A Dockerfile is provided in the `https://github.com/AMD-Ecosystem/ComfyUI/blob/amd-integration/docker/Dockerfile.rocm <https://github.com/AMD-Ecosystem/ComfyUI/blob/amd-integration/docker/Dockerfile.rocm>`__ repository to help you get started.
 
-1. Clone the `https://github.com/ROCm/ComfyUI/tree/release/0.18.2.amd0 <https://github.com/ROCm/ComfyUI/tree/release/0.18.2.amd0>`__ repository.
+1. Clone the `https://github.com/AMD-Ecosystem/ComfyUI/tree/release/0.18.2.amd0 <https://github.com/AMD-Ecosystem/ComfyUI/tree/release/0.18.2.amd0>`__ repository.
 
    .. code-block:: bash
 
-      git clone https://github.com/rocm/ComfyUI.git -b amd-integration
+      git clone https://github.com/AMD-Ecosystem/ComfyUI.git -b amd-integration
       cd ComfyUI
 
 2. Build the Docker image.
